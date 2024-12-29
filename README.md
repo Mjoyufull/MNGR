@@ -82,3 +82,75 @@
 </tr>
 </table>
 </details>
+
+<details>
+<summary>🌌 Marathon Electric blue Neon</summary>
+<table>
+	<tr>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGB</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td>Primary Blue</td>
+		<td><code>#0A7DD2</code></td>
+		<td><code>rgb(10, 125, 210)</code></td>
+		<td><code>hsl(207, 91%, 43%)</code></td>
+	</tr>
+	<tr>
+		<td>Dark Blue</td>
+		<td><code>#074988</code></td>
+		<td><code>rgb(7, 73, 136)</code></td>
+		<td><code>hsl(207, 90%, 28%)</code></td>
+	</tr>
+	<tr>
+		<td>Light Blue</td>
+		<td><code>#1B8FE4</code></td>
+		<td><code>rgb(27, 143, 228)</code></td>
+		<td><code>hsl(207, 83%, 50%)</code></td>
+	</tr>
+	<tr>
+		<td>Accent Green</td>
+		<td><code>#B3FF00</code></td>
+		<td><code>rgb(179, 255, 0)</code></td>
+		<td><code>hsl(84, 100%, 50%)</code></td>
+	</tr>
+	<tr>
+		<td>Warning Red</td>
+		<td><code>#EB0954</code></td>
+		<td><code>rgb(235, 9, 84)</code></td>
+		<td><code>hsl(341, 93%, 48%)</code></td>
+	</tr>
+	<tr>
+		<td>Alert Yellow</td>
+		<td><code>#FFD700</code></td>
+		<td><code>rgb(255, 215, 0)</code></td>
+		<td><code>hsl(51, 100%, 50%)</code></td>
+	</tr>
+	<tr>
+		<td>Secondary Blue</td>
+		<td><code>#007BFF</code></td>
+		<td><code>rgb(0, 123, 255)</code></td>
+		<td><code>hsl(211, 100%, 50%)</code></td>
+	</tr>
+	<tr>
+		<td>Highlight Pink</td>
+		<td><code>#FF47D6</code></td>
+		<td><code>rgb(255, 71, 214)</code></td>
+		<td><code>hsl(315, 100%, 64%)</code></td>
+	</tr>
+	<tr>
+		<td>Surface Dark</td>
+		<td><code>#363636</code></td>
+		<td><code>rgb(54, 54, 54)</code></td>
+		<td><code>hsl(0, 0%, 21%)</code></td>
+	</tr>
+	<tr>
+		<td>Surface Light</td>
+		<td><code>#E6FAFA</code></td>
+		<td><code>rgb(230, 250, 250)</code></td>
+		<td><code>hsl(180, 67%, 94%)</code></td>
+	</tr>
+</table>
+</details>
